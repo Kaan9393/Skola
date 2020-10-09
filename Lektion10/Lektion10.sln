@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAlongInheritance2", "CodeAlongInheritance2\CodeAlongInheritance2.csproj", "{0D2B9F67-7BDE-4F4A-BC50-C67C19AD09C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractDemoCodeAlong", "AbstractDemoCodeAlong\AbstractDemoCodeAlong.csproj", "{71BFBA23-FDCE-443F-881A-59710A4587A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemoHåkan", "InterfaceDemoHåkan\InterfaceDemoHåkan.csproj", "{D9CE5BDE-518E-4F45-9F6D-46C0AC689B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAlong.PolymorfismAbstractInterface", "CodeAlong.PolymorfismAbstractInterface\CodeAlong.PolymorfismAbstractInterface.csproj", "{82FEB103-3C42-4799-8AC7-2ED165962793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2B9F67-7BDE-4F4A-BC50-C67C19AD09C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2B9F67-7BDE-4F4A-BC50-C67C19AD09C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2B9F67-7BDE-4F4A-BC50-C67C19AD09C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2B9F67-7BDE-4F4A-BC50-C67C19AD09C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BFBA23-FDCE-443F-881A-59710A4587A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BFBA23-FDCE-443F-881A-59710A4587A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BFBA23-FDCE-443F-881A-59710A4587A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BFBA23-FDCE-443F-881A-59710A4587A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CE5BDE-518E-4F45-9F6D-46C0AC689B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CE5BDE-518E-4F45-9F6D-46C0AC689B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CE5BDE-518E-4F45-9F6D-46C0AC689B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CE5BDE-518E-4F45-9F6D-46C0AC689B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FEB103-3C42-4799-8AC7-2ED165962793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FEB103-3C42-4799-8AC7-2ED165962793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FEB103-3C42-4799-8AC7-2ED165962793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FEB103-3C42-4799-8AC7-2ED165962793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

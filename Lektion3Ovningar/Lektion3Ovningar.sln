@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion3Ovningar", "Lektion3Ovningar\Lektion3Ovningar.csproj", "{01FC7188-6159-442F-BC0F-E71B9F6DF5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FC7188-6159-442F-BC0F-E71B9F6DF5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FC7188-6159-442F-BC0F-E71B9F6DF5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FC7188-6159-442F-BC0F-E71B9F6DF5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FC7188-6159-442F-BC0F-E71B9F6DF5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
